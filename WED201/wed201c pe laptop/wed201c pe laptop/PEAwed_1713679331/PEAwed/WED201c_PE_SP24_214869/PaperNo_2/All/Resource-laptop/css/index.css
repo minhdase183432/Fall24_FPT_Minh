@@ -1,0 +1,132 @@
+body{
+    overflow-x: hidden;
+}
+
+.header-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px solid #000;
+}
+
+.header-title h3{
+    text-align: center;
+    color: orange;
+}
+
+.header-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.header-logo img{
+    width: 100px;
+}
+
+.body-1{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info-img-1 {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.info-img-1 a img{
+    width: 130px;
+    height: 130px;
+    border: 5px solid gray;
+    border-radius: 10px;
+}
+
+.info-img-1 a h3{
+    text-align: center;
+}
+
+.body-2{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info-img-2 {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.info-img-2 a img{
+    width: 130px;
+    height: 130px;
+    border: 5px solid gray;
+    border-radius: 10px;
+}
+
+.info-img-2 a h3{
+    text-align: center;
+}
+
+.banner-img{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.banner-img img{
+    width: 100%;
+}
+
+.title-2{
+    display: flex;
+    margin-left: 20px;
+}
+
+.title-text h1{
+    color: #1bcdcd;
+}
+
+.info-goiy{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    margin-bottom: 30px;
+    padding: 0;
+}
+
+.goiy-1{
+    display: flex;
+    justify-content: space-between;
+}
+.goiy-info img{
+    width: 100%;
+    height: 262px;
+}
+
+.goiy-text h{
+    color: orange;
+}
+
+.footer{
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    margin-left: 0;
+    background-color: #1bcdcd;
+    width: 100%;
+    height: 100%;
+}
+
+.footer-info{
+    text-align: center;
+    align-content: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

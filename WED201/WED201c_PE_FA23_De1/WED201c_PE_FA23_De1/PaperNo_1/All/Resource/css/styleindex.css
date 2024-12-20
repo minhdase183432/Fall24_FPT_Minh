@@ -1,0 +1,101 @@
+body {
+    overflow-x: hidden;
+}
+
+.header-container {
+    padding: 3;
+}
+
+.header-logo {
+    text-align: center;
+}
+
+.header-menu {
+    display: flex;
+    justify-content: center;
+    background-color: #0EC0C3;
+    height: 50px;
+}
+
+.hungphat-header {
+    text-align: center;
+    margin: 30px;
+    color: #0EC0C3;
+}
+
+.img-1 {
+    width: 100%;
+}
+
+.hungphat-text {
+    font-size: large;
+}
+
+.Beautiful-locations {
+    text-align: center;
+    margin: 30px;
+    color: #0EC0C3;
+}
+
+.img-location {
+    margin: 0%;
+    height: 100%;
+}
+
+.location-big {
+    display: flex;
+}
+
+.Hcm-img {
+    width: 100%;
+    height: 380px;
+}
+
+.img-2 {
+    margin-bottom: 20px;
+    height: 180px;
+    width: 265px;
+}
+
+.location-text {
+    color: white;
+    position: absolute;
+    left: 20px;
+    top: 0;
+}
+
+.location {
+    padding: 0;
+    height: 380px;
+    position: relative;
+}
+
+.title-3 {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    color: #0EC0C3;
+}
+
+.img-house{
+    width: 100%;
+}
+
+.text-house{
+    text-align: center;
+    font-size: large;
+    color: gold;
+}
+
+.footer{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.end-footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    background-color: #0EC0C3;
+}

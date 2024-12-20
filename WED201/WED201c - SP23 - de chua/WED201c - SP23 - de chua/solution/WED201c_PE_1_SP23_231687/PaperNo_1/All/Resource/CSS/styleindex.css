@@ -1,0 +1,103 @@
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .content-menu {
+    display: flex;
+}
+
+.navbar-logo img {
+    width: 50%;
+}
+
+.navbar>div {
+    margin: auto 15px;
+}
+
+.content-menu li {
+    margin: auto 15px;
+    list-style: none;
+}
+
+.content-menu a {
+    text-decoration: none;
+}
+
+/* Banner */
+.banner {
+    display: flex;
+    justify-content: center;
+}
+
+.banner img {
+    width: 45%;
+}
+
+/* Content details */
+.content-detail h1 {
+    text-align: center;
+}
+
+.content-detail p {
+    font-style: italic;
+}
+
+/* Footer */
+.footer {
+    display: flex;
+    background-color: aqua;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: -8px;
+}
+
+.footer .copyright {
+    width: 100%;
+    text-align: center;
+}
+
+/* Tour */
+.tour {
+    display: flex;
+    justify-content: center;
+}
+
+.tour h1 {
+    background-color: rgb(22, 132, 175);
+    margin-bottom: 0px;
+}
+
+.tour .form-example{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.tour label {
+    min-width: 150px;
+}
+
+.tour .btn-book {
+    text-align: center;
+    margin: auto;
+    width: 15%;
+    padding: 15px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.tour .tour-content {
+    background-color: rgb(206, 193, 193);
+}
+
+.tour .total-amount {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    text-align: center;
+    background-color: green;
+}

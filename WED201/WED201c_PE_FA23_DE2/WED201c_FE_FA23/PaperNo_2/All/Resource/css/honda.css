@@ -1,0 +1,108 @@
+body{
+    overflow-x: hidden;
+}
+
+.header{
+    display: flex;
+    align-items: flex-end;
+    margin-top: 20px;
+}
+.text-header{
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
+
+.logo-header{
+    text-align: center;
+    
+}
+
+.img-honda{
+    width: 150px;
+    height: 125px;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+}
+
+.menu-header{
+    height: 50px;
+    background-color: #0EC0C3;
+    margin-top: 10px;
+}
+
+.info1{
+    padding: 0;
+    margin: 0;
+}
+
+.title1{
+    margin-top: 50px;
+    color: #0EC0C3;
+    text-align: center;
+}
+
+.img-big{
+    width: 100%;
+}
+
+.img-small{
+    margin: 10px;
+    width: 60%;
+}
+
+.title2{
+    margin-top: 50px;
+    color: #0EC0C3;
+    text-align: center;
+}
+
+.moto{
+    text-align: center;
+}
+
+.img-seller{
+    text-align: left;
+    height: 252px;
+}
+
+.cap1{
+    margin-left: 70px;
+    text-align: left;
+    color: orange;
+}
+
+.cap{
+    margin-left: 70px;
+    text-align: left;
+}
+
+.title3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: #0EC0C3;
+}
+
+.img-store{
+    width: 100%;
+    height: 400px;
+}
+
+.lefooter{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: #0EC0C3;
+}
+
+.footer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

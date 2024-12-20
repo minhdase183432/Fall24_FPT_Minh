@@ -1,0 +1,184 @@
+body{
+    overflow-x: hidden;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.logo a{
+    text-align: center;
+}
+
+.logo img{
+    width: 140px;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
+    align-items: center;
+    background-color: rgb(185, 185, 185);
+}
+
+.menu ul li{
+    margin: 20px;
+    list-style-type: none;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: blue;
+}
+
+.title-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #00539B;
+}
+
+.laptop{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 0;
+}
+
+.list-laptop{
+    display: flex;
+    align-items: center;
+    border: 2px solid gray;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.list-1{
+    width: 600px;
+    height: 360px;
+    text-align: right;
+}
+.list-1 img{
+    width: 580px;
+    height: 100%;
+}
+
+.list-2{
+    height: 360px;
+    width: 100px;
+    align-items: center;
+    margin-right: 20px;
+}
+.list-2 img{
+    display: block;
+    margin-bottom: 7px;
+    width: 100%;
+}
+
+.list-text{
+    margin-left: 20px ;
+    width: 500px;
+    border: 2px solid gray;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.list-text h2{
+    color: orange;
+    margin-left: 5px;
+}
+
+.list-text p{
+    margin-left: 5px;
+    border-bottom: 1px solid gray;
+}
+
+.giatien{
+    color: orange;
+    font-style: italic;
+}
+
+.title-2{
+    display: flex;
+    justify-content: center;
+    color: #00539B;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.product{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
+
+.product-menu{
+    height: 370px;
+    width: auto;
+    margin: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.product-menu img{
+    width: 100%;
+}
+
+.product-menu p{
+    margin-top: 40px;
+    color: orange;
+}
+
+.caption{
+    margin-top: 55px;
+    background-color: orange;
+    color: white;
+    height: 30px;
+    align-content: center;
+    font-size: small;
+}
+
+.title-3{
+    display: flex;
+    justify-content: center;
+    color: #00539B;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.fb{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.khach{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.text-fb{
+    margin-left: 20px;
+
+}
+
+.footer{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    background-color: #00afc6;
+    color: white;
+    align-items: center;
+    width: 100%;
+}

@@ -1,0 +1,4 @@
+SE,prf192,1,oop,3 month,true
+AI,chatGPT,1,robot,1 month,true
+MKT,anana,1,mama,2 month,false
+SS,media,1,Writting,2 month,true
